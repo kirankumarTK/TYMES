@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tymes</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="register">New User ? Register</string>
+    <string name="login">Login</string>
+
+    <string-array name="timeslot">
+        <item>Select</item>
+        <item>10AM - 11AM</item>
+        <item>11.15AM - 12.15PM</item>
+        <item>12.30PM - 01.30PM</item>
+        <item>1.45PM - 2.45PM</item>
+        <item>3.00PM - 4.00PM</item>
+    </string-array>
+    <string-array name="menuitems">
+        <item>idly</item>
+        <item>dosai</item>
+        <item>poori</item>
+        <item>pongal</item>
+        <item>omlete</item>
+        <item>onion dosa</item>
+        <item>rava dosa</item>
+        <item>ghee idly</item>
+    </string-array>
+</resources>
